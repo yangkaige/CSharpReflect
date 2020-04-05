@@ -1,0 +1,6 @@
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\bin\x64\Debug\ClassLibrary1.dll
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\bin\x64\Debug\ClassLibrary1.pdb
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csprojAssemblyReference.cache
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\obj\x64\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\obj\x64\Debug\ClassLibrary1.dll
+D:\testspace\c#pro\TestAssemblyUsage\ClassLibrary1\obj\x64\Debug\ClassLibrary1.pdb
