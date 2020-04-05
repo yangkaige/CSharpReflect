@@ -1,0 +1,7 @@
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\bin\Debug\TestAssemblyUsage.exe.config
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\bin\Debug\TestAssemblyUsage.exe
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\bin\Debug\TestAssemblyUsage.pdb
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\obj\Debug\TestAssemblyUsage.csprojAssemblyReference.cache
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\obj\Debug\TestAssemblyUsage.csproj.CoreCompileInputs.cache
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\obj\Debug\TestAssemblyUsage.exe
+D:\testspace\c#pro\TestAssemblyUsage\TestAssemblyUsage\obj\Debug\TestAssemblyUsage.pdb
